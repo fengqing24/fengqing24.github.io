@@ -5,7 +5,7 @@ baseurl:
 url: http://fengqing24.github.io
 date_format: "ordinal"
 title: 精进  
-subtitle: "文能提笔安天下，武能上马定乾坤"
+subtitle: "读书，让才华撑起梦想"
 description: "马小团的个人博客"
 keywords: maxiaotuan,马小团
 favicon: /favicon.ico
@@ -111,4 +111,4 @@ google:
 #      Datas       #
 # ---------------- #
 skill_language_keywords: [Java, PHP]
-skill_software_keywords: [Mysql, Spring, Mybatis]
+skill_software_keywords: [Mysql, Spring, Mybatis, Multithreading]
