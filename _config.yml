@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://fengqing24.github.io
 date_format: "ordinal"
 title: 精进  
 subtitle: "文能提笔安天下，武能上马定乾坤"
@@ -110,5 +110,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_Language_keywords: [Java, PHP]
+skill_language_keywords: [Java, PHP]
 skill_software_keywords: [Mysql, Spring, Mybatis]
