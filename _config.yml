@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 精进  
+subtitle: "文能提笔安天下，武能上马定乾坤"
+description: "马小团的个人博客"
+keywords: maxiaotuan,马小团
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,11 +16,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
+author: Jianbin Ma
+organization: Meituan, Inc.
+organization_url: https://www.meituan.com
 location: Beijing, China
-email: chumpma@gmail.com
+email: majianbin24@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,17 +77,17 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: fengqing24/fengqing24.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: fengqing24
+#douban_username: freedim
+#facebook_username: mzlogin
+#weibo_username: mzlogin
+#zhihu_username: mzlogin
+#twitter_username: mzlogin
 
 # ---------------- #
 #      Comments    #
@@ -110,6 +110,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_Language_keywords: [Java, PHP]
+skill_software_keywords: [Mysql, Spring, Mybatis]
